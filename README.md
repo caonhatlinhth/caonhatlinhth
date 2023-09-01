@@ -53,3 +53,36 @@ I am a data analyst with 4 years of experience in the field, specializing in tex
 <img src="https://img.shields.io/badge/Convolutional%20Neural%20Network-5AD3D1?style=for-the-badge" alt="Convolutional Neural Network" />
 <img src="https://img.shields.io/badge/Natural%20Language%20Processing-F58A77?style=for-the-badge" alt="Natural Language Processing" />
 <img src="https://img.shields.io/badge/Time%20Series%20Analysis-00D4FF?style=for-the-badge" alt="Time Series Analysis" />
+
+### GitHub Stats 📈
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/caonhatlinhth">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyc86&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Linh Cao's Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/jeffreyc86">
+            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
+            <img src="https://github-readme-stats.vercel.app/api?username=jeffreyc86&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
+
+---
+
+<div align='center'>
+
+![](https://komarev.com/ghpvc/?username=caonhatlinhth&label=Profile+Views)
+
+</div>
