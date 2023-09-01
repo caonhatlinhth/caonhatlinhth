@@ -15,7 +15,7 @@ I am a data analyst with 4 years of experience in the field, specializing in tex
 <img src="https://img.shields.io/badge/read%20my%20blogs%20on%20medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
 </a>
 <a href="https://sites.google.com/view/linh-cao-portfolio/home">
-<img src="https://img.shields.io/badge/read%20my%20profile%20on%20website-black?style=for-the-badge&logo=google page&logoColor=white" alt="website" />
+<img src="https://img.shields.io/badge/read%20my%20profile%20on%20website-cyan?style=for-the-badge&logo=website&logoColor=white" alt="website" />
 </a>
 <a href="mailto:linhcao.work@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
