@@ -15,9 +15,41 @@ I am a data analyst with 4 years of experience in the field, specializing in tex
 <img src="https://img.shields.io/badge/read%20my%20blogs%20on%20medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
 </a>
 <a href="https://sites.google.com/view/linh-cao-portfolio/home">
-<img src="https://img.shields.io/badge/read%20my%20blogs%20on%20website-black?style=for-the-badge&logo=website&logoColor=white" alt="website" />
+<img src="https://img.shields.io/badge/read%20my%20profile%20on%20website-black?style=for-the-badge&logo=website&logoColor=white" alt="website" />
 </a>
 <a href="mailto:linhcao.work@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
+
+### Languages, Tools, and Skills 🛠
+<div align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+<img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/MS%20Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white" alt="MS Power BI" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Matplotlib-FF5533?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-8A2BE2?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+<img src="https://img.shields.io/badge/Apache%20Hadoop-D22128?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Apache Hadoop" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Scikit--learn-8CA1A5?style=for-the-badge" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/SalesForces-96A8A0?style=for-the-badge" alt="SalesForces" />
+<img src="https://img.shields.io/badge/Hubspot-AB85A1?style=for-the-badge" alt="Hubspot" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF9E64?style=for-the-badge" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=for-the-badge" alt="Deep Learning" />
+<img src="https://img.shields.io/badge/Convolutional%20Neural%20Network-5AD3D1?style=for-the-badge" alt="Convolutional Neural Network" />
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-F58A77?style=for-the-badge" alt="Natural Language Processing" />
+<img src="https://img.shields.io/badge/Time%20Series%20Analysis-00D4FF?style=for-the-badge" alt="Time Series Analysis" />
