@@ -3,5 +3,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caonhatlinhth&show_icons=true&theme=tokyonight)
 
 # Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caonhatlinhth&compact_layout=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caonhatlinhth&pie_chart_layout=true)
 
