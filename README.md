@@ -56,6 +56,32 @@ I am a data analyst with 4 years of experience in the field, specializing in tex
 
 ### GitHub Stats 📈
 
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/caonhatlinhth">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caonhatlinhth&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Linh Cao's Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/caonhatlinhth">
+            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/caonhatlinhth?cardType=github&theme=github" alt="Linh Cao's GitHub Stats" /> -->
+            <img src="https://github-readme-stats.vercel.app/api?username=caonhatlinhth&show_icons=true&hide=stars&hide_border=true" alt="Linh Cao's GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
+
+---
+
 <div align='center'>
 
 ![](https://komarev.com/ghpvc/?username=caonhatlinhth&label=Profile+Views)
