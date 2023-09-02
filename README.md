@@ -24,7 +24,6 @@ I am a data analyst with 4 years of experience in the field, specializing in tex
 
 ### Languages, Tools, and Skills 🛠
 <div align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
