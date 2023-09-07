@@ -31,6 +31,7 @@ I am a data analyst with 4 years of experience in the field, specializing in tex
 <img src="https://img.shields.io/badge/Agile%20Methodology-8B5CF6?style=for-the-badge" alt="Agile Methodology" />
 <img src="https://img.shields.io/badge/Data%20Preparation-8B5CF6?style=for-the-badge" alt="Data Preparation" />
 
+
 ### Languages, Tools, and Technical Skills 🛠
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
