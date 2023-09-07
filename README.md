@@ -45,7 +45,7 @@ I am a data analyst with 4 years of experience in the field, specializing in tex
 <img src="https://img.shields.io/badge/SalesForces-96A8A0?style=for-the-badge" alt="SalesForces" />
 <img src="https://img.shields.io/badge/Hubspot-AB85A1?style=for-the-badge" alt="Hubspot" />
 <img src="https://img.shields.io/badge/Natural%20Language%20Processing-F58A77?style=for-the-badge" alt="Natural Language Processing" />
-<img src="https://img.shields.io/badge/Natural%20Language%20Processing-F58A77?style=for-the-badge" alt="Recurrent Neural Network Processing" />
+<img src="https://img.shields.io/badge/Recurrent%20Neural%20Network-F58A77?style=for-the-badge" alt="Recurrent Neural Network Processing" />
 <img src="https://img.shields.io/badge/Convolutional%20Neural%20Network-5AD3D1?style=for-the-badge" alt="Convolutional Neural Network" />
   
 ### GitHub Stats 📈
