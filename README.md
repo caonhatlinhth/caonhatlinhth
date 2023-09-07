@@ -20,18 +20,6 @@ I am a data analyst with 4 years of experience in the field, specializing in tex
 </a>
 </div>
 
-### General Skills 🛠
-<div align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=for-the-badge" alt="Deep Learning" />
-<img src="https://img.shields.io/badge/Time%20Series%20Analysis-8B5CF6?style=for-the-badge" alt="Time Series Analysis" />
-<img src="https://img.shields.io/badge/Data%20Visualization-8B5CF6?style=for-the-badge" alt="Data Visualization" />
-<img src="https://img.shields.io/badge/Database%20Structure%20&%20Algorithm%20Learning-8B5CF6?style=for-the-badge" alt="Database Structure & Algorithm" />
-<img src="https://img.shields.io/badge/Statistical%20Analysis-8B5CF6?style=for-the-badge" alt="Statistical Analysis" />
-<img src="https://img.shields.io/badge/Agile%20Methodology-8B5CF6?style=for-the-badge" alt="Agile Methodology" />
-<img src="https://img.shields.io/badge/Data%20Preparation-8B5CF6?style=for-the-badge" alt="Data Preparation" />
-
-
 ### Languages, Tools, and Technical Skills 🛠
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
